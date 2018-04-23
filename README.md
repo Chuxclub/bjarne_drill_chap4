@@ -4,11 +4,9 @@ Drill from Bjarne Stroustrup's Chapter 4 in Programming, Principles and Practice
 The following code is my take on Bjarne Stroustrup's drill from Chapter 4. Feel free to let me know how to make it more
 concise. Here's what it asked me to do (1, 2, 3 don't appear in the source code, only 4 to 11):
 
-1. Write	a	program	that	consists	of	a	while-loop	that	(each	time	around	the loop)	reads	in	two	ints	and	then prints	them.	Exit	the	program	when a terminating	'|'	is	entered.
+1. Write	a	program	that	consists	of	a	while-loop	that	(each	time	around	the loop)	reads	in	two	ints	and	then prints them.	Exit	the	program	when a terminating	'|'	is	entered.
 
-2.	Change	the	program	to	write	out	the	smaller	value	is:	followed	by	the
-smaller	of	the	numbers	and	the	larger	value	is:	followed	by	the	larger
-value.
+2.	Change	the	program	to	write	out	the	smaller	value	is:	followed	by	the smaller	of	the	numbers	and	the	larger	value	is:	followed by	the	larger value.
 
 3.	Augment	the	program	so	that	it	writes	the	line	the	numbers	are	equal
 (only)	if	they	are	equal.
